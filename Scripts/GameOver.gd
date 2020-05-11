@@ -14,7 +14,5 @@ func _enter_tree():
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	if Input.is_key_pressed(KEY_ESCAPE):
-		get_tree().quit()
 	if Input.is_key_pressed(KEY_R):
 		get_tree().change_scene("res://Scenes/StartScreen.tscn")
