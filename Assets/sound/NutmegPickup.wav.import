@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/NutmegPickup.wav-11ff34165b0f2e184692c78f64b6ee54.sample"
+
+[deps]
+
+source_file="res://Assets/sound/NutmegPickup.wav"
+dest_files=[ "res://.import/NutmegPickup.wav-11ff34165b0f2e184692c78f64b6ee54.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

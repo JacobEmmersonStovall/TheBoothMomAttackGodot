@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/BaseballPickup.wav-d046191c6f6570470b3dd6459805f2f2.sample"
+
+[deps]
+
+source_file="res://Assets/sound/BaseballPickup.wav"
+dest_files=[ "res://.import/BaseballPickup.wav-d046191c6f6570470b3dd6459805f2f2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

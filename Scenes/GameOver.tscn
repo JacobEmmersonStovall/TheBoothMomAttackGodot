@@ -1,0 +1,38 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/GameOver.gd" type="Script" id=1]
+
+[node name="GameOverScreen" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_top = 43.044
+margin_right = 256.0
+margin_bottom = 59.044
+text = "Game Over"
+align = 1
+valign = 1
+
+[node name="Label2" type="Label" parent="."]
+margin_top = 60.0
+margin_right = 256.0
+margin_bottom = 76.0
+text = "Score: 0"
+align = 1
+valign = 1
+
+[node name="Label3" type="Label" parent="."]
+margin_top = 100.0
+margin_right = 256.0
+margin_bottom = 116.0
+text = "Press R to Go to Main Menu"
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
